@@ -1,4 +1,4 @@
-# JuliaLearn
+# Julia Learning
 I'm learning The Julia Language.
 
 #Home
